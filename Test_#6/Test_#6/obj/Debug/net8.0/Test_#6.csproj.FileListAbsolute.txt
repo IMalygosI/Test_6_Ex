@@ -1,0 +1,14 @@
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.AssemblyInfoInputs.cache
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.AssemblyInfo.cs
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.csproj.CoreCompileInputs.cache
+C:\Users\profi\source\repos\Test_#6\Test_#6\bin\Debug\net8.0\Test_#6.exe
+C:\Users\profi\source\repos\Test_#6\Test_#6\bin\Debug\net8.0\Test_#6.deps.json
+C:\Users\profi\source\repos\Test_#6\Test_#6\bin\Debug\net8.0\Test_#6.runtimeconfig.json
+C:\Users\profi\source\repos\Test_#6\Test_#6\bin\Debug\net8.0\Test_#6.dll
+C:\Users\profi\source\repos\Test_#6\Test_#6\bin\Debug\net8.0\Test_#6.pdb
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.dll
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\refint\Test_#6.dll
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.pdb
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\Test_#6.genruntimeconfig.cache
+C:\Users\profi\source\repos\Test_#6\Test_#6\obj\Debug\net8.0\ref\Test_#6.dll
